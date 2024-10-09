@@ -1,15 +1,22 @@
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
-### Hello world! 👋
+
+# Welcome!
+## I'm Pedro! Let me present a little about myself :D
+
+Back-End focused in Java/Python | Software engineer :robot:
+
+Lover of Technology and coding :heart:
 
 
-Back-End Developer, specialized in Java and Python. 
-Working professionally since 2021, improving application's performance and integrations and have experience developing Java And Python to web applicarions. 
-Everything covered with JUnity tests, using CI/CD, GCP, Docker for caching and performance optimization, etc
 
-If you have any questions or would like to connect, feel free to reach out to me on <a href="https://www.linkedin.com/in/pedroalexandrevieira/">Linkedin.</a>. I look forward to connecting with you!
+## About me 
 
-<div>
-<div>
-<a href="https://github.com/pedroalexandrevieira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroalexandrevieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroalexandrevieira&layout=compact&langs_count=7&theme=dracula"/>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/pedroalexandrevieira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/in/pedroalexandrevieira/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=+351916849502&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucassiqueirafernandes07@gmail.com)](mailto:pedro.piresvieira1@gmail.com)
+
+
+- Thanks for visiting. 
+- Enjoy it!! o/
