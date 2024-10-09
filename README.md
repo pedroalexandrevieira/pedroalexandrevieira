@@ -1,8 +1,10 @@
 
 ### Hello world! 👋
 
-I'm Pedro, son of the 90's. People, tech, animal and sport lover.
 
+Back-End Developer, specialized in Java and Python. 
+Working professionally since 2021, improving application's performance and integrations and have experience developing Java And Python to web applicarions. 
+Everything covered with JUnity tests, using CI/CD, GCP, Docker for caching and performance optimization, etc
 If you have any questions or would like to connect, feel free to reach out to me on <a href="https://www.linkedin.com/in/pedroalexandrevieira/">Linkedin.</a>. I look forward to connecting with you!
 
 <div>
