@@ -3,8 +3,7 @@
 
 I'm Pedro, son of the 90's. People, tech, animal and sport lover.
 
-For more information about my services, please visit <a href="https://www.infinitycodesystem.com/">InfinityCode System Website</a>. If you have any questions or would like to connect, feel free to reach out to me on <a href="https://www.linkedin.com/in/pedroalexandrevieira/">Linkedin.</a>. I look forward to connecting with you!
-
+If you have any questions or would like to connect, feel free to reach out to me on <a href="https://www.linkedin.com/in/pedroalexandrevieira/">Linkedin.</a>. I look forward to connecting with you!
 
 <div>
 <div>
