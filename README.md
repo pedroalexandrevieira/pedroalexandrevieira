@@ -4,7 +4,7 @@
 # Welcome!
 ## I'm Pedro! Let me present a little about myself :D
 
-Back-End focused in Java/Python | Software engineer :robot:
+Back-End focused in Java | Software engineer :robot:
 
 Lover of Technology and coding :heart:
 
